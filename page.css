@@ -93,7 +93,7 @@
 .text1{ 
     color: black;
     font-size: 23px;
-    margin-left:-30px ;
+    margin-left: 30px ;
     margin-bottom: 100px;
     margin-top: -530px;
     text-shadow: 0 0 2px blue;
@@ -120,10 +120,11 @@ span{
 .prof{
     width: 250px;
     height: 300px;
-    margin-left: 880px;
+    margin-left: 920px;
     border-radius: 20px;
     box-shadow: 0 0 40px 0 blue;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
+    margin-top: 30px;
 }
 
 .photo{
@@ -161,7 +162,7 @@ span{
 
 .text2{
     font-size: 24px;
-    margin-left: 460px;
+    margin-left: 490px;
     margin-top: -410px;
     color: black;
     text-shadow: 0 0 60px black;
@@ -173,8 +174,9 @@ span{
     color: black;
     text-shadow: 0 0 60px black;
     font-size: 24px;
-    margin-top: -580px;
+    margin-top: 530px;
     text-shadow: 0 0 2px blue;
+    margin-left: 40px;
 }
 
 .tytuł{
@@ -183,7 +185,7 @@ span{
     display: flex;
     justify-content: space-around;
     font-size:50px;
-    margin-top:40px;
+    margin-top:60px;
 }
 
 .mini{
