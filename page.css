@@ -30,10 +30,8 @@
     height: 40px;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 550px;
     display: flex;
-    align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     text-decoration: none;
 }
 
@@ -82,12 +80,6 @@
 .podmaska:hover{
     box-shadow: 0 0 26px 0 black;
     opacity: 50%;
-}
-
-.odsyłacz{
-    display: flex;
-    justify-content: space-around;
-    color: white;
 }
 
 .text1{ 
