@@ -30,8 +30,8 @@
     height: 40px;
     margin-top: 20px;
     margin-bottom: 20px;
-    display: flex;
-    justify-content: center;
+    display: inline-block;
+    justify-content: space-around;
     text-decoration: none;
 }
 
