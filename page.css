@@ -259,7 +259,7 @@ span{
     }
 
     .prof{
-        margin-left: 64px;
+        margin-left: 54px;
     }
 
     .text1{
@@ -271,6 +271,36 @@ span{
         width: 320px;
         height: 460px;
         margin-left: 62px;
+    }
+
+    .text2{
+        margin-left: 12px;
+        margin-top: 60px;
+    }
+
+    .photo2{
+        margin-left: 22px;
+        width: 320px;
+        height: 460px;
+    }
+
+    .text3{
+        margin-top: 70px;
+        margin-left: 8px;
+    }
+
+    .tytuł{
+        font-size: 40px;
+    }
+
+    .mini{
+        flex-direction: column;
+        width: 300px;
+        margin: 10px;
+    }
+
+    .odsyłacz{
+        margin-left: 100px;
     }
 
     
