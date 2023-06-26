@@ -195,18 +195,6 @@ span{
     opacity: 40%;
 }
 
-.section1{
-    background: linear-gradient(
-        to top left,
-        var(-- rgb(248, 249, 249)),
-        var(--blue)
-    );
-    margin-left: -42px;
-    width: 1252px;
-    height: 650px;
-    box-shadow: 0 0 20px 0 black;
-}
-
 .icon-youtube-play{
     color: red;
 }
