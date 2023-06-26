@@ -257,5 +257,19 @@ span{
         margin-left:20px;
         font-size: 50px;
     }
+
+    .prof{
+        margin-left: 54px;
+    }
+
+    .text1{
+        margin-top: -200px;
+    }
+
+    .photo{
+        width: 320px;
+        height: 460px;
+        margin-left: 62px;
+    }
     
 }
