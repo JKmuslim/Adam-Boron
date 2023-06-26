@@ -259,11 +259,12 @@ span{
     }
 
     .prof{
-        margin-left: 54px;
+        margin-left: 64px;
     }
 
     .text1{
         margin-top: -200px;
+        margin-left: 14px;
     }
 
     .photo{
@@ -271,5 +272,7 @@ span{
         height: 460px;
         margin-left: 62px;
     }
+
+    
     
 }
