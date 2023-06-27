@@ -30,7 +30,7 @@
     height: 40px;
     margin-top: 20px;
     margin-bottom: 20px;
-    dy: inline-block;
+    display: inline-block;
     justify-content: space-around;
     text-decoration: none;
 }
