@@ -22,6 +22,7 @@
     height: 40px;
     margin-top: 20px;
     margin-bottom: 20px;
+    margin-left: 600px;
     text-decoration: none;
 }
 
@@ -229,7 +230,7 @@ span{
 @media screen and (max-width: 767px)  {
     .odsyłacze{
         margin-left: -5px;
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .title{
@@ -276,11 +277,11 @@ span{
 
     .mini{
         flex-direction: column;
-        margin-left: 10px;
+        margin-left: 1px;
     }
 
     .odsyłacz{
-        margin-left: 100px;
+        margin-left: 120px;
     }
 
     .icons{
@@ -296,6 +297,5 @@ span{
     .instagram{
         margin-bottom: 50px;
     }
-    
-    
+
 }
