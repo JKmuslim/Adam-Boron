@@ -22,8 +22,6 @@
     height: 40px;
     margin-top: 20px;
     margin-bottom: 20px;
-    display: inline-block;
-    justify-content: space-around;
     text-decoration: none;
 }
 
@@ -230,7 +228,8 @@ span{
 
 @media screen and (max-width: 767px)  {
     .odsyłacze{
-    margin-left: -5px;
+        margin-left: -5px;
+        font-size: 20px;
     }
 
     .title{
@@ -277,7 +276,7 @@ span{
 
     .mini{
         flex-direction: column;
-        margin-left: 20px;
+        margin-left: 10px;
     }
 
     .odsyłacz{
