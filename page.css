@@ -242,12 +242,13 @@ span{
     }
 
     .title{
-        margin-left:20px;
+        margin-left:36px;
         font-size: 50px;
     }
 
     .prof{
         margin-left: 64px;
+        margin-top: 50px;
     }
 
     .text1{
@@ -293,9 +294,9 @@ span{
     }
 
     .icons{
-        margin-top: 100px;
+        margin-top: 36px;
         display: flex;
-        flex-direction: column;
+        justify-content: space-around;
     }
 
     .yt{
