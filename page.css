@@ -292,6 +292,19 @@ span{
         margin-left: 100px;
     }
 
+    .icons{
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .yt{
+        margin-bottom: 50px;
+    }
+
+    .instagram{
+        margin-bottom: 50px;
+    }
     
     
 }
