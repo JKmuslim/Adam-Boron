@@ -278,6 +278,7 @@ span{
     .mini{
         flex-direction: column;
         margin-left: 1px;
+        margin-bottom: 40px;
     }
 
     .odsyłacz{
@@ -297,5 +298,8 @@ span{
     .instagram{
         margin-bottom: 50px;
     }
+
+    .sign{
+        margin-top: 10px;
 
 }
