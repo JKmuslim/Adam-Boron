@@ -96,12 +96,12 @@ h1{
 }
 
 @media only screen and (max-width: 767px)  {
-
-.img{
+    .img{
         width: 320px;
         height: 460px;
         margin-top: 1px;
         margin-bottom: 40px;
+        margin-left: 20px;
     }
 
     .title{
@@ -110,12 +110,14 @@ h1{
     }
 
     .book{
-        margin-left: -12px;
+        font-size: 22px;
+        margin-left: -36px;
     }
 
     .powrót{
-        margin-left: 20px;
+        margin-left: 26px;
         
     }
+    
     
 }
