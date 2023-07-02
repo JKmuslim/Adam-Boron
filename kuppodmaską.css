@@ -101,7 +101,7 @@ h1{
         height: 460px;
         margin-top: 1px;
         margin-bottom: 40px;
-        margin-left: 20px;
+        margin-left: 32px;
     }
 
     .title{
@@ -115,9 +115,11 @@ h1{
     }
 
     .powrót{
-        margin-left: 26px;
+        margin-left: 28px;
         
     }
+    
+    
     
     
 }
