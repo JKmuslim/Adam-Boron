@@ -1,14 +1,6 @@
-:root{
-    --light: rgb(206, 210, 210);;
-    --dark: grey;
-}
 
 body{ 
-    background:linear-gradient(
-        to top right ,
-        var(--light),
-        var(--dark)
-    );
+    background: rgb(201, 201, 203);
     width: 95vw;
     height: 100vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
