@@ -96,6 +96,28 @@ h1{
 }
 
 @media only screen and (max-width: 767px)  {
+    .img{
+        width: 320px;
+        height: 460px;
+        margin-top: 1px;
+        margin-bottom: 40px;
+        margin-left: 32px;
+    }
+
+    .title{
+        margin-left: 10px;
+        font-size: 30px;
+    }
+
+    .book{
+        font-size: 22px;
+        margin-left: -36px;
+    }
+
+    .powrót{
+        margin-left: 28px;
+        
+    }
     
     
 }
