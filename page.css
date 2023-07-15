@@ -17,7 +17,7 @@
     color: white;
     border: 6px solid blue;
     background-color: blue;
-    box-shadow: 0 0 10px 0 blue;
+    box-shadow: 0 0 10px 0 white;
     width: 140px;
     height: 40px;
     margin-top: 20px;
@@ -27,7 +27,7 @@
 }
 
 .odsyłacz:hover{
-    box-shadow: 0 0 26px 0 black;
+    box-shadow: 0 0 26px 0 white;
 }
 
 .filmy{
@@ -37,12 +37,12 @@
     color: white;
     background-color: blue;
     text-decoration: none;
-    box-shadow: 0 0 10px 0 blue;
+    box-shadow: 0 0 10px 0 white;
 
 }
 
 .filmy:hover{
-    box-shadow: 0 0 26px 0 black;
+    box-shadow: 0 0 26px 0 white;;
     opacity:50%;
 }
 
@@ -51,7 +51,7 @@
     color: white;
     background-color: blue;
     text-decoration: none;
-    box-shadow: 0 0 10px 0 blue;
+    box-shadow: 0 0 10px 0 white;
 }
 
 .siedemdni:hover{
@@ -65,11 +65,11 @@
     color: white;
     background-color: blue;
     text-decoration:none;
-    box-shadow: 0 0 10px 0 blue;
+    box-shadow: 0 0 10px 0 white;
 }
 
 .podmaska:hover{
-    box-shadow: 0 0 26px 0 black;
+    box-shadow: 0 0 26px 0 white;
     opacity: 50%;
 }
 
