@@ -133,7 +133,7 @@ span{
     display: flex;
     border-radius: 12px;
     margin-top: 240px;
-    box-shadow: 0px 0px 80px 0 white;
+    box-shadow: 0px 0px 50px 0 white;
 }
 
 .photo2:hover{
