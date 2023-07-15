@@ -24,6 +24,7 @@
     margin-bottom: 20px;
     margin-left: 600px;
     text-decoration: none;
+    border-radius: 10px;
 }
 
 .odsyłacz:hover{
@@ -40,6 +41,7 @@
     background-color: rgb(36, 35, 35);
     text-decoration: none;
     box-shadow: 0 0 10px 0 white;
+    border-radius: 10px;
 
 }
 
