@@ -26,41 +26,59 @@ h1{
 .empik{
     color: white;
     text-decoration:none;
-    border: 6px solid blue;
-    background: blue;
+    border: 4px solid white;
+    background: rgb(36, 35, 35);
     box-shadow: 0 0 10px 0 white;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 4px;
+    padding-bottom:4px;
+    border-radius: 10px;
 
 }
 
 .empik:hover{
     box-shadow: 0 0 26px 0 white;
-    opacity: 40%;
+    background: white;
+    color: rgb(36, 35, 35);
 }
 
 .tania{
     color: white;
     text-decoration:none;
-    border: 6px solid blue;
-    background: blue;
+    border: 4px solid white;
+    background: rgb(36, 35, 35);
     box-shadow: 0 0 10px 0 white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 10px;
 }
 
 .tania:hover{
     box-shadow: 0 0 26px 0 white;
-    opacity: 40%;
+    color: rgb(36, 35, 35);
+    background: white;
 }
 
 .tantis{
     color:white;
     text-decoration:none;
-    border: 6px solid blue;
-    background: blue;
+    border: 4px solid white;
+    background: rgb(36, 35, 35);
     box-shadow: 0 0 10px 0 white;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 10px;
 }
 
 .tantis:hover{
     box-shadow: 0 0 26px 0 white;
-    opacity: 40%;
+    background: white;
+    color: rgb(36, 35, 35);
 }
 
 .img{
@@ -74,17 +92,23 @@ h1{
 .powrót{
     font-size: 26px;
     color: white;
-    border: 4px solid blue;
-    background: blue;
+    border: 4px solid white;
+    background: rgb(36, 35, 35);
     box-shadow: 0 0 10px 0 white;
     text-decoration:none;
     margin-left: 260px;
     margin-top: -200px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 10px;
 }
 
 .powrót:hover{
-    box-shadow: 0 0 26px 0 white;
-    opacity: 50%;
+    box-shadow: 0 0 26px 0 white;    
+    background: white;
+    color: rgb(36, 35, 35);
 }
 
 @media only screen and (max-width: 767px)  {
