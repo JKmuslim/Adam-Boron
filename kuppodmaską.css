@@ -27,8 +27,12 @@ h1{
 .empik{
     color: white;
     text-decoration:none;
-    border: 6px solid blue;
-    background: blue;
+    border: 4px solid white;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 4px;
+    padding-bottom:4px;
+    background: 
     box-shadow: 0 0 10px 0 white;
 
 }
